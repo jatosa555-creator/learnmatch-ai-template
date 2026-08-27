@@ -18,6 +18,10 @@ The preview above shows the Remember/Learn tabs, Basic and Advanced board choice
 
 The [Level guide](docs/levels.md) explains what each product level produces and which workflow to choose.
 
+## Share with teachers
+
+Use the [Thai LinkedIn post draft](docs/linkedin-post-th.md) to introduce the demo, GitHub Template, levels, and teacher workflow. It includes a ready-to-copy caption, real-image attribution, and the links teachers need to try and extend the project.
+
 ## What is included
 
 - Basic: 6 items, 12 cards, 3 x 4 board
@@ -93,6 +97,8 @@ AGENTS.md                    Optional instructions for coding agents
 ## License
 
 The application code is released under the license in `LICENSE`. Example images and third-party source material may have separate terms; check each asset record before redistribution.
+
+
 
 
 

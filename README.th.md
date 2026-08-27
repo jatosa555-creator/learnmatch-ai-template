@@ -26,3 +26,7 @@ npm run dev
 - [ดูภาพตัวอย่างเว็บแอป](docs/assets/demo-preview.svg)
 - [ดูอินโฟกราฟิก Level และคู่มือ](docs/levels.md)
 
+## บทความสำหรับโพสต์ LinkedIn
+
+[เปิดบทความพร้อมใช้ พร้อมเครดิตรูปจริงและลิงก์สำหรับส่งต่อให้ครู](docs/linkedin-post-th.md)
+
