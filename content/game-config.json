@@ -1,0 +1,29 @@
+{
+  "product": {
+    "name": "LearnMatch AI",
+    "description": "An AI-adaptable educational memory game template",
+    "defaultLocale": "th",
+    "supportedLocales": ["en", "th"]
+  },
+  "difficulties": {
+    "basic": {
+      "label": "Basic",
+      "itemIds": ["marie", "ada", "katherine", "hedy", "grace", "mae"],
+      "rows": 4,
+      "columns": 3,
+      "cardCount": 12
+    },
+    "advanced": {
+      "label": "Advanced",
+      "rows": 5,
+      "columns": 4,
+      "cardCount": 20
+    }
+  },
+  "scoring": {
+    "completion": 30,
+    "accuracy": 50,
+    "speed": 20,
+    "total": 100
+  }
+}
