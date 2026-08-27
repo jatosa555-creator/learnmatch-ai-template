@@ -1,362 +1,112 @@
 [
   {
-    "id": "ada",
-    "title": {
-      "th": "เอดา เลิฟเลซ",
-      "en": "Ada Lovelace"
-    },
+    "id": "feifei",
+    "title": {"th": "เฟย-เฟย หลี่", "en": "Fei-Fei Li"},
     "image": "/assets/placeholders/item-01.svg",
-    "field": {
-      "th": "ผู้บุกเบิกการเขียนโปรแกรม",
-      "en": "Programming pioneer"
-    },
+    "field": {"th": "นักวิทยาศาสตร์ AI และ Computer Vision", "en": "AI & computer vision scientist"},
     "color": "#66e6ff",
-    "description": {
-      "th": "นักคณิตศาสตร์ชาวอังกฤษ ผู้เขียนอัลกอริทึมสำหรับเครื่อง Analytical Engine ในปี 1843 จนได้รับการยกย่องว่าเป็นโปรแกรมเมอร์คนแรกของโลก",
-      "en": "An English mathematician who wrote an algorithm for the Analytical Engine in 1843 and is often recognized as the first computer programmer."
-    },
-    "facts": {
-      "th": [
-        "อัลกอริทึม",
-        "Analytical Engine",
-        "โปรแกรมเมอร์คนแรก"
-      ],
-      "en": [
-        "Algorithm",
-        "Analytical Engine",
-        "First programmer"
-      ]
-    },
-    "source": {
-      "url": "https://th.wikipedia.org/wiki/เอดา_เลิฟเลซ",
-      "language": "th",
-      "label": "Wikipedia"
-    },
-    "imageCredit": "LearnMatch AI template placeholder",
-    "imageLicense": "template-generated"
+    "description": {"th": "ศาสตราจารย์ด้านวิทยาการคอมพิวเตอร์แห่ง Stanford และผู้ร่วมก่อตั้ง Stanford Institute for Human-Centered AI (HAI) ผลงานของเธอด้าน ImageNet ช่วยเร่งการพัฒนา computer vision และ deep learning สมัยใหม่", "en": "A Stanford computer science professor and co-director of Stanford's Human-Centered AI institute. Her work on ImageNet helped accelerate modern computer vision and deep learning."},
+    "facts": {"th": ["ImageNet", "Human-Centered AI", "Computer Vision"], "en": ["ImageNet", "Human-Centered AI", "Computer Vision"]},
+    "source": {"url": "https://profiles.stanford.edu/fei-fei-li", "language": "en", "label": "Stanford University"},
+    "imageCredit": "LearnMatch AI template placeholder", "imageLicense": "template-generated"
   },
   {
-    "id": "hedy",
-    "title": {
-      "th": "เฮดี ลาเมอร์",
-      "en": "Hedy Lamarr"
-    },
+    "id": "doudna",
+    "title": {"th": "เจนนิเฟอร์ ดูดนา", "en": "Jennifer Doudna"},
     "image": "/assets/placeholders/item-02.svg",
-    "field": {
-      "th": "นักประดิษฐ์ระบบสื่อสาร",
-      "en": "Communications inventor"
-    },
+    "field": {"th": "นักชีวเคมีและผู้บุกเบิก CRISPR", "en": "Biochemist & CRISPR pioneer"},
     "color": "#c989ff",
-    "description": {
-      "th": "นักแสดงและนักประดิษฐ์ชาวออสเตรีย–อเมริกัน ผู้ร่วมคิดค้นระบบเปลี่ยนความถี่สัญญาณ (Frequency Hopping) ซึ่งเป็นรากฐานสำคัญของ Wi‑Fi, Bluetooth และ GPS",
-      "en": "An Austrian-American actor and inventor who co-developed frequency-hopping technology, an important foundation for later wireless communication systems."
-    },
-    "facts": {
-      "th": [
-        "Frequency Hopping",
-        "Wi‑Fi",
-        "Bluetooth"
-      ],
-      "en": [
-        "Frequency Hopping",
-        "Wi‑Fi",
-        "Bluetooth"
-      ]
-    },
-    "source": {
-      "url": "https://th.wikipedia.org/wiki/เฮดี_ลามาร์",
-      "language": "th",
-      "label": "Wikipedia"
-    },
-    "imageCredit": "LearnMatch AI template placeholder",
-    "imageLicense": "template-generated"
+    "description": {"th": "นักชีวเคมีแห่ง UC Berkeley และผู้ได้รับรางวัลโนเบลสาขาเคมีจากการพัฒนาวิธีตัดต่อจีโนม CRISPR-Cas9 ซึ่งเปิดความเป็นไปได้ใหม่ให้การแพทย์ ชีววิทยา และเกษตรกรรม", "en": "A UC Berkeley biochemist and Nobel laureate whose work developing CRISPR-Cas9 genome editing opened new possibilities in medicine, biology, and agriculture."},
+    "facts": {"th": ["CRISPR-Cas9", "Gene Editing", "โนเบลเคมี"], "en": ["CRISPR-Cas9", "Gene Editing", "Nobel Prize in Chemistry"]},
+    "source": {"url": "https://doudnalab.org/", "language": "en", "label": "Doudna Lab / UC Berkeley"},
+    "imageCredit": "LearnMatch AI template placeholder", "imageLicense": "template-generated"
   },
   {
-    "id": "katherine",
-    "title": {
-      "th": "แคเทอรีน จอห์นสัน",
-      "en": "Katherine Johnson"
-    },
+    "id": "rus",
+    "title": {"th": "ดาเนียลา รุส", "en": "Daniela Rus"},
     "image": "/assets/placeholders/item-03.svg",
-    "field": {
-      "th": "นักคณิตศาสตร์นาซา",
-      "en": "NASA mathematician"
-    },
+    "field": {"th": "นักวิจัยหุ่นยนต์และ AI", "en": "Robotics & AI researcher"},
     "color": "#ff9d6c",
-    "description": {
-      "th": "นักคณิตศาสตร์แห่ง NASA ผู้คำนวณวิถีโคจรให้ภารกิจสำคัญของสหรัฐฯ ตั้งแต่เที่ยวบินของจอห์น เกลนน์ ไปจนถึงเส้นทางของ Apollo 11 สู่ดวงจันทร์",
-      "en": "A NASA mathematician who calculated flight trajectories for key United States missions, including John Glenn's flight and Apollo 11's journey to the Moon."
-    },
-    "facts": {
-      "th": [
-        "NASA",
-        "Apollo 11",
-        "วิถีโคจร"
-      ],
-      "en": [
-        "NASA",
-        "Apollo 11",
-        "Orbital trajectories"
-      ]
-    },
-    "source": {
-      "url": "https://en.wikipedia.org/wiki/Katherine_Johnson",
-      "language": "en",
-      "label": "Wikipedia"
-    },
-    "imageCredit": "LearnMatch AI template placeholder",
-    "imageLicense": "template-generated"
+    "description": {"th": "ศาสตราจารย์ MIT และผู้อำนวยการ MIT CSAIL งานของเธอครอบคลุมหุ่นยนต์อัตโนมัติ soft robotics และการสร้างระบบ AI ที่ช่วยขยายความสามารถของมนุษย์", "en": "An MIT professor and director of MIT CSAIL whose research spans autonomous robots, soft robotics, and AI systems designed to extend human capability."},
+    "facts": {"th": ["MIT CSAIL", "Robotics", "Soft Robots"], "en": ["MIT CSAIL", "Robotics", "Soft Robots"]},
+    "source": {"url": "https://www.csail.mit.edu/person/daniela-rus", "language": "en", "label": "MIT CSAIL"},
+    "imageCredit": "LearnMatch AI template placeholder", "imageLicense": "template-generated"
   },
   {
-    "id": "marie",
-    "title": {
-      "th": "มารี กูรี",
-      "en": "Marie Curie"
-    },
+    "id": "bouman",
+    "title": {"th": "เคที บูแมน", "en": "Katie Bouman"},
     "image": "/assets/placeholders/item-04.svg",
-    "field": {
-      "th": "ผู้บุกเบิกกัมมันตรังสี",
-      "en": "Radioactivity pioneer"
-    },
+    "field": {"th": "วิศวกรคอมพิวเตอร์และ Computational Imaging", "en": "Computational imaging scientist"},
     "color": "#83f3bf",
-    "description": {
-      "th": "นักวิทยาศาสตร์เชื้อสายโปแลนด์ ผู้ค้นพบธาตุพอโลเนียมและเรเดียม เป็นผู้หญิงคนแรกที่ได้รับรางวัลโนเบล และเป็นบุคคลเดียวที่ได้โนเบล 2 สาขาวิทยาศาสตร์",
-      "en": "A Polish-born scientist who discovered polonium and radium, became the first woman to receive a Nobel Prize, and remains the only person to win Nobel Prizes in two scientific fields."
-    },
-    "facts": {
-      "th": [
-        "เรเดียม",
-        "รางวัลโนเบล 2 สาขา",
-        "เคมีและฟิสิกส์"
-      ],
-      "en": [
-        "Radium",
-        "Two Nobel science prizes",
-        "Chemistry and physics"
-      ]
-    },
-    "source": {
-      "url": "https://th.wikipedia.org/wiki/มารี_กูว์รี",
-      "language": "th",
-      "label": "Wikipedia"
-    },
-    "imageCredit": "LearnMatch AI template placeholder",
-    "imageLicense": "template-generated"
+    "description": {"th": "ศาสตราจารย์แห่ง Caltech ผู้พัฒนาอัลกอริทึมและวิธีคำนวณภาพจากข้อมูลจำนวนมหาศาล งานของเธอมีบทบาทสำคัญใน Event Horizon Telescope ที่สร้างภาพหลุมดำภาพแรกของโลก", "en": "A Caltech professor developing computational imaging methods. Her work contributed to the Event Horizon Telescope collaboration that produced the first image of a black hole."},
+    "facts": {"th": ["Black Hole Imaging", "Event Horizon Telescope", "Algorithms"], "en": ["Black Hole Imaging", "Event Horizon Telescope", "Algorithms"]},
+    "source": {"url": "https://www.cms.caltech.edu/people/klbouman", "language": "en", "label": "Caltech"},
+    "imageCredit": "LearnMatch AI template placeholder", "imageLicense": "template-generated"
   },
   {
-    "id": "rosalind",
-    "title": {
-      "th": "โรซาลินด์ แฟรงคลิน",
-      "en": "Rosalind Franklin"
-    },
+    "id": "seager",
+    "title": {"th": "ซารา ซีเกอร์", "en": "Sara Seager"},
     "image": "/assets/placeholders/item-05.svg",
-    "field": {
-      "th": "นักผลึกวิทยาโครงสร้าง DNA",
-      "en": "DNA crystallographer"
-    },
+    "field": {"th": "นักฟิสิกส์ดาราศาสตร์และนักล่าดาวเคราะห์", "en": "Astrophysicist & exoplanet scientist"},
     "color": "#ffcf70",
-    "description": {
-      "th": "นักเคมีและนักผลึกวิทยาชาวอังกฤษ เจ้าของภาพ Photo 51 ซึ่งเผยให้เห็นโครงสร้างเกลียวคู่ของ DNA และมีบทบาทสำคัญต่อความเข้าใจรหัสชีวิต",
-      "en": "An English chemist and crystallographer whose Photo 51 provided important evidence for DNA's double-helix structure."
-    },
-    "facts": {
-      "th": [
-        "Photo 51",
-        "DNA",
-        "ผลึกวิทยาเอกซเรย์"
-      ],
-      "en": [
-        "Photo 51",
-        "DNA",
-        "X-ray crystallography"
-      ]
-    },
-    "source": {
-      "url": "https://th.wikipedia.org/wiki/โรซาลินด์_แฟรงคลิน",
-      "language": "th",
-      "label": "Wikipedia"
-    },
-    "imageCredit": "LearnMatch AI template placeholder",
-    "imageLicense": "template-generated"
+    "description": {"th": "ศาสตราจารย์ MIT ผู้ศึกษาดาวเคราะห์นอกระบบสุริยะ ชั้นบรรยากาศของดาวเคราะห์ และวิธีค้นหาสัญญาณที่อาจบ่งชี้ถึงสิ่งมีชีวิตนอกโลก", "en": "An MIT professor studying exoplanets, planetary atmospheres, and ways to search for signs that could indicate life beyond Earth."},
+    "facts": {"th": ["Exoplanets", "Planetary Atmospheres", "Search for Life"], "en": ["Exoplanets", "Planetary Atmospheres", "Search for Life"]},
+    "source": {"url": "https://seagerexoplanets.mit.edu/", "language": "en", "label": "MIT"},
+    "imageCredit": "LearnMatch AI template placeholder", "imageLicense": "template-generated"
   },
   {
-    "id": "grace",
-    "title": {
-      "th": "เกรซ ฮอปเปอร์",
-      "en": "Grace Hopper"
-    },
+    "id": "ghez",
+    "title": {"th": "แอนเดรีย เกซ", "en": "Andrea Ghez"},
     "image": "/assets/placeholders/item-06.svg",
-    "field": {
-      "th": "ผู้สร้างคอมไพเลอร์และ COBOL",
-      "en": "Compiler and COBOL creator"
-    },
+    "field": {"th": "นักฟิสิกส์ดาราศาสตร์", "en": "Astrophysicist"},
     "color": "#ff83c5",
-    "description": {
-      "th": "พลเรือตรีและนักคอมพิวเตอร์ผู้บุกเบิกคอมไพเลอร์ A‑0 และวางรากฐานภาษา COBOL ทำให้คอมพิวเตอร์ทำงานกับภาษาที่มนุษย์อ่านเข้าใจได้มากขึ้น",
-      "en": "A computer scientist and rear admiral who pioneered the A-0 compiler and helped lay the foundations for COBOL."
-    },
-    "facts": {
-      "th": [
-        "คอมไพเลอร์",
-        "COBOL",
-        "debug"
-      ],
-      "en": [
-        "Compiler",
-        "COBOL",
-        "Debugging"
-      ]
-    },
-    "source": {
-      "url": "https://th.wikipedia.org/wiki/เกรซ_ฮอปเปอร์",
-      "language": "th",
-      "label": "Wikipedia"
-    },
-    "imageCredit": "LearnMatch AI template placeholder",
-    "imageLicense": "template-generated"
+    "description": {"th": "ศาสตราจารย์ UCLA และผู้ได้รับรางวัลโนเบลฟิสิกส์จากงานสังเกตการโคจรของดาวฤกษ์รอบใจกลางกาแล็กซี ซึ่งให้หลักฐานสำคัญของหลุมดำมวลยิ่งยวด Sagittarius A*", "en": "A UCLA professor and Nobel laureate whose observations of stars orbiting the Galactic Center provided key evidence for the supermassive black hole Sagittarius A*."},
+    "facts": {"th": ["Sagittarius A*", "Galactic Center", "โนเบลฟิสิกส์"], "en": ["Sagittarius A*", "Galactic Center", "Nobel Prize in Physics"]},
+    "source": {"url": "https://www.astro.ucla.edu/~ghez/", "language": "en", "label": "UCLA"},
+    "imageCredit": "LearnMatch AI template placeholder", "imageLicense": "template-generated"
   },
   {
-    "id": "chien",
-    "title": {
-      "th": "อู๋ เจี้ยนสยง",
-      "en": "Chien-Shiung Wu"
-    },
+    "id": "kariko",
+    "title": {"th": "คาตาลิน คาริโก", "en": "Katalin Karikó"},
     "image": "/assets/placeholders/item-07.svg",
-    "field": {
-      "th": "นักฟิสิกส์ผู้พิสูจน์การละเมิดพาริตี",
-      "en": "Parity-violation physicist"
-    },
+    "field": {"th": "นักชีวเคมีและผู้บุกเบิก mRNA", "en": "Biochemist & mRNA pioneer"},
     "color": "#9ba8ff",
-    "description": {
-      "th": "นักฟิสิกส์ชาวจีน–อเมริกัน ผู้พิสูจน์จากการทดลองโคบอลต์‑60 ว่าธรรมชาติไม่รักษาความสมมาตรซ้าย–ขวา จนได้รับการยกย่องเป็น First Lady of Physics",
-      "en": "A Chinese-American physicist whose cobalt-60 experiment demonstrated that nature does not preserve left-right symmetry in the relevant weak interaction."
-    },
-    "facts": {
-      "th": [
-        "โคบอลต์‑60",
-        "Parity violation",
-        "First Lady of Physics"
-      ],
-      "en": [
-        "Cobalt-60",
-        "Parity violation",
-        "First Lady of Physics"
-      ]
-    },
-    "source": {
-      "url": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu",
-      "language": "en",
-      "label": "Wikipedia"
-    },
-    "imageCredit": "LearnMatch AI template placeholder",
-    "imageLicense": "template-generated"
+    "description": {"th": "นักชีวเคมีผู้บุกเบิกเทคโนโลยี modified mRNA งานวิจัยพื้นฐานของเธอช่วยทำให้วัคซีน mRNA มีประสิทธิภาพและนำไปสู่รางวัลโนเบลสาขาสรีรวิทยาหรือการแพทย์ปี 2023", "en": "A biochemist whose pioneering work on modified mRNA helped enable effective mRNA vaccines and led to the 2023 Nobel Prize in Physiology or Medicine."},
+    "facts": {"th": ["mRNA", "Vaccines", "โนเบลการแพทย์ 2023"], "en": ["mRNA", "Vaccines", "2023 Nobel Prize in Medicine"]},
+    "source": {"url": "https://www.nobelprize.org/prizes/medicine/2023/kariko/facts/", "language": "en", "label": "Nobel Prize"},
+    "imageCredit": "LearnMatch AI template placeholder", "imageLicense": "template-generated"
   },
   {
-    "id": "tu",
-    "title": {
-      "th": "ตู โยวโยว",
-      "en": "Tu Youyou"
-    },
+    "id": "buolamwini",
+    "title": {"th": "จอย บัวลัมวินี", "en": "Joy Buolamwini"},
     "image": "/assets/placeholders/item-08.svg",
-    "field": {
-      "th": "ผู้ค้นพบยาต้านมาลาเรีย",
-      "en": "Antimalarial medicine pioneer"
-    },
+    "field": {"th": "นักวิจัย AI และ Algorithmic Justice", "en": "AI researcher & algorithmic justice advocate"},
     "color": "#74e6ad",
-    "description": {
-      "th": "นักเคมีเภสัชชาวจีน ผู้ค้นพบวิธีสกัดสารอาร์เทมิซินินจากตำรายาจีนโบราณ ช่วยชีวิตผู้คนจากโรคมาลาเรียทั่วโลก และได้รับรางวัลโนเบลในปี 2015",
-      "en": "A Chinese pharmaceutical chemist who helped discover artemisinin, an antimalarial treatment, and received the 2015 Nobel Prize in Physiology or Medicine."
-    },
-    "facts": {
-      "th": [
-        "อาร์เทมิซินิน",
-        "มาลาเรีย",
-        "โนเบลการแพทย์"
-      ],
-      "en": [
-        "Artemisinin",
-        "Malaria",
-        "Nobel Prize in Medicine"
-      ]
-    },
-    "source": {
-      "url": "https://th.wikipedia.org/wiki/ถู_โยวโยว",
-      "language": "th",
-      "label": "Wikipedia"
-    },
-    "imageCredit": "LearnMatch AI template placeholder",
-    "imageLicense": "template-generated"
+    "description": {"th": "นักวิจัยด้าน AI และผู้ก่อตั้ง Algorithmic Justice League งาน Gender Shades ของเธอเปิดเผยความเหลื่อมล้ำของระบบวิเคราะห์ใบหน้า และผลักดันการออกแบบ AI ที่เป็นธรรมและรับผิดชอบมากขึ้น", "en": "An AI researcher and founder of the Algorithmic Justice League. Her Gender Shades work exposed disparities in facial analysis systems and helped advance more accountable AI."},
+    "facts": {"th": ["Gender Shades", "AI Bias", "Algorithmic Justice"], "en": ["Gender Shades", "AI Bias", "Algorithmic Justice"]},
+    "source": {"url": "https://www.ajl.org/about", "language": "en", "label": "Algorithmic Justice League"},
+    "imageCredit": "LearnMatch AI template placeholder", "imageLicense": "template-generated"
   },
   {
-    "id": "valentina",
-    "title": {
-      "th": "วาเลนตินา เทเรชโควา",
-      "en": "Valentina Tereshkova"
-    },
+    "id": "shotwell",
+    "title": {"th": "กวินน์ ช็อตเวลล์", "en": "Gwynne Shotwell"},
     "image": "/assets/placeholders/item-09.svg",
-    "field": {
-      "th": "ผู้หญิงคนแรกในอวกาศ",
-      "en": "First woman in space"
-    },
+    "field": {"th": "วิศวกรอวกาศและผู้นำเทคโนโลยี", "en": "Aerospace engineer & technology leader"},
     "color": "#7cc8ff",
-    "description": {
-      "th": "นักบินอวกาศชาวโซเวียต ผู้เดินทางสู่อวกาศด้วยยาน Vostok 6 ในปี 1963 และโคจรรอบโลก 48 รอบในภารกิจเดี่ยวที่สร้างประวัติศาสตร์",
-      "en": "A Soviet cosmonaut who flew Vostok 6 in 1963 and became the first woman in space, completing 48 Earth orbits on a solo mission."
-    },
-    "facts": {
-      "th": [
-        "Vostok 6",
-        "48 รอบโลก",
-        "ภารกิจเดี่ยว"
-      ],
-      "en": [
-        "Vostok 6",
-        "48 Earth orbits",
-        "Solo mission"
-      ]
-    },
-    "source": {
-      "url": "https://th.wikipedia.org/wiki/วาเลนตีนา_เตเรชโควา",
-      "language": "th",
-      "label": "Wikipedia"
-    },
-    "imageCredit": "LearnMatch AI template placeholder",
-    "imageLicense": "template-generated"
+    "description": {"th": "วิศวกรเครื่องกลและผู้บริหารระดับสูงของ SpaceX ผู้มีบทบาทสำคัญในการเปลี่ยนเทคโนโลยีจรวดนำกลับมาใช้ใหม่และบริการปล่อยดาวเทียมให้กลายเป็นระบบปฏิบัติการจริงในระดับอุตสาหกรรม", "en": "A mechanical engineer and senior SpaceX leader who has played a major role in turning reusable launch technology and commercial spaceflight into large-scale operations."},
+    "facts": {"th": ["Aerospace", "Reusable Rockets", "Space Systems"], "en": ["Aerospace", "Reusable Rockets", "Space Systems"]},
+    "source": {"url": "https://www.spacex.com/", "language": "en", "label": "SpaceX"},
+    "imageCredit": "LearnMatch AI template placeholder", "imageLicense": "template-generated"
   },
   {
-    "id": "mae",
-    "title": {
-      "th": "เม แจมิสัน",
-      "en": "Mae Jemison"
-    },
+    "id": "suchana",
+    "title": {"th": "ศ. ดร.สุชนา ชวนิชย์", "en": "Suchana Chavanich"},
     "image": "/assets/placeholders/item-10.svg",
-    "field": {
-      "th": "นักบินอวกาศหญิงผิวสีคนแรก",
-      "en": "First Black woman in space"
-    },
-    "color": "#ff9a83",
-    "description": {
-      "th": "แพทย์และวิศวกรชาวอเมริกัน ผู้เป็นสตรีผิวสีคนแรกที่เดินทางสู่อวกาศกับกระสวย Endeavour ในปี 1992 และเป็นแรงบันดาลใจให้เด็กทั่วโลก",
-      "en": "An American physician and engineer who became the first Black woman in space aboard the Space Shuttle Endeavour in 1992."
-    },
-    "facts": {
-      "th": [
-        "Endeavour STS‑47",
-        "127 รอบโลก",
-        "วิศวกรและแพทย์"
-      ],
-      "en": [
-        "Endeavour STS-47",
-        "127 Earth orbits",
-        "Engineer and physician"
-      ]
-    },
-    "source": {
-      "url": "https://en.wikipedia.org/wiki/Mae_Jemison",
-      "language": "en",
-      "label": "Wikipedia"
-    },
-    "imageCredit": "LearnMatch AI template placeholder",
-    "imageLicense": "template-generated"
+    "field": {"th": "นักวิทยาศาสตร์ทางทะเลและการเปลี่ยนแปลงสภาพภูมิอากาศ", "en": "Marine scientist & climate researcher"},
+    "color": "#ffd166",
+    "description": {"th": "นักวิทยาศาสตร์ทางทะเลแห่งจุฬาลงกรณ์มหาวิทยาลัย ผู้ศึกษาระบบนิเวศทางทะเล แนวปะการัง และผลกระทบจากการเปลี่ยนแปลงสภาพภูมิอากาศ รวมถึงทำงานวิจัยภาคสนามในแอนตาร์กติกา", "en": "A Chulalongkorn University marine scientist studying marine ecosystems, coral reefs, and climate-change impacts, with field research experience in Antarctica."},
+    "facts": {"th": ["Marine Ecology", "Coral Reefs", "Antarctica"], "en": ["Marine Ecology", "Coral Reefs", "Antarctica"]},
+    "source": {"url": "https://www.chula.ac.th/", "language": "en", "label": "Chulalongkorn University"},
+    "imageCredit": "LearnMatch AI template placeholder", "imageLicense": "template-generated"
   }
 ]
