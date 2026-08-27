@@ -1,14 +1,14 @@
 {
   "product": {
-    "name": "LearnMatch AI",
-    "description": "An AI-adaptable educational memory game template",
+    "name": "Women in STEM Now — LearnMatch",
+    "description": "A bilingual memory game celebrating contemporary women shaping STEM today",
     "defaultLocale": "th",
     "supportedLocales": ["en", "th"]
   },
   "difficulties": {
     "basic": {
       "label": "Basic",
-      "itemIds": ["marie", "ada", "katherine", "hedy", "grace", "mae"],
+      "itemIds": ["feifei", "doudna", "rus", "bouman", "seager", "suchana"],
       "rows": 4,
       "columns": 3,
       "cardCount": 12
