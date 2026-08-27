@@ -4,6 +4,20 @@ An AI-adaptable educational memory game template.
 
 LearnMatch AI separates the reusable game engine from its content pack. Teachers can keep the memory game, learning library, bilingual UI, difficulty levels, and 100-point scoring while changing the topic to scientists, athletes, food, technology, AI, or any other classroom subject.
 
+## See the app before you customize it
+
+[Open the published demo](https://memory-match-role-models-4x4.jatosa555.chatgpt.site/) to play the current Thai STEM example.
+
+![LearnMatch AI web app preview](docs/assets/demo-preview.svg)
+
+The preview above shows the Remember/Learn tabs, Basic and Advanced board choices, the Start game button, and the 100-point score panel. It is a static illustration; the published demo is the interactive version.
+
+## Choose a level
+
+![LearnMatch AI levels infographic](docs/assets/learnmatch-levels.png)
+
+The [Level guide](docs/levels.md) explains what each product level produces and which workflow to choose.
+
 ## What is included
 
 - Basic: 6 items, 12 cards, 3 x 4 board
@@ -79,4 +93,7 @@ AGENTS.md                    Optional instructions for coding agents
 ## License
 
 The application code is released under the license in `LICENSE`. Example images and third-party source material may have separate terms; check each asset record before redistribution.
+
+
+
 
